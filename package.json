@@ -1,5 +1,5 @@
 {
-	"name": "vite-plugin-singlefile",
+	"name": "@shuizhongyueming/vite-plugin-singlefile",
 	"version": "2.0.3",
 	"description": "Vite plugin for inlining all JavaScript and CSS resources",
 	"main": "dist/cjs/index.js",
@@ -34,16 +34,16 @@
 		"SFA",
 		"single-file"
 	],
-	"author": "richard@tallent.us",
+	"author": "shuizhongyueming@gmail.com",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/richardtallent/vite-plugin-singlefile"
+		"url": "https://github.com/shuizhongyueming/vite-plugin-singlefile"
 	},
 	"bugs": {
-		"url": "https://github.com/richardtallent/vite-plugin-singlefile/issues"
+		"url": "https://github.com/shuizhongyueming/vite-plugin-singlefile/issues"
 	},
-	"homepage": "https://github.com/richardtallent/vite-plugin-singlefile/tree/main/#readme",
+	"homepage": "https://github.com/shuizhongyueming/vite-plugin-singlefile/tree/main/#readme",
 	"dependencies": {
 		"micromatch": "^4.0.8"
 	},
